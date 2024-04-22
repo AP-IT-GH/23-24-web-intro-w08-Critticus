@@ -11,4 +11,6 @@
  - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
  - Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+ *https://play.grafana.org/d/KEVaBvgMk/flowcharting-network-diagram?orgId=1
+  https://play.grafana.org/d/3SWXxreWk/grafana-dashboard?orgId=1
+  https://play.grafana.org/d/000000040/logarithmic-scales?orgId=1*
